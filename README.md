@@ -17,6 +17,19 @@ The project's objective is to gather job-related information from Instahyre usin
 4. Analyze job market trends - Identify employment patterns and demands.
 5. Increase job matching efficiency - Connect candidates with suitable positions.
 
+##  <img src="https://user-images.githubusercontent.com/106439762/181935629-b3c47bd3-77fb-4431-a11c-ff8ba0942b63.gif" width="48" height="48"> **User's Manual**
+
+| Files/Folder        | Description                                                                                   |
+|---------------------|-----------------------------------------------------------------------------------------------|
+| **Phase - 1**       | Includes the following folders:                                                               |
+|                     | **Table creation:** (Creating database tables)                                                  |
+|                     | **Data Analysis:** (Analyzing data sets)                                                        |
+|                     | **Web Scraping:** (Extracting data from websites).                                              |
+| **Phase - 2**       | Includes the following folders:                                                               |
+|                     | **App Logics:** (Implementation of application logic.)                                         |
+|                     | **Data Preprocessing and Model Creation:** (Data preparation and development of machine learning models.)|
+|                     | **App:** (Final application code.)                                                              |
+
 
 ## Data Description
 
@@ -36,7 +49,7 @@ CompanyID      | A key to map with company table, as one company can have multip
 
 Column Name         | Description
 --------------------|-------------------------------------------------
-Company ID          | Primary key for Company table
+CompanyID           | Primary key for Company table
 Name                | Name of the company posting the job listings
 Founded             | Founded year of the company
 Employees           | Total number of employees in the company
@@ -109,10 +122,7 @@ The following methodology was used to accomplish the project objectives:
 ## A short demo video of our app (Deployed on the local host server)
 
 
-
 https://github.com/divyechopra/Instahyre-Job-Analytics/assets/122443219/128a105f-8b21-4664-b706-2106456a0a21
-
-
 
 
 ## Challenges:
