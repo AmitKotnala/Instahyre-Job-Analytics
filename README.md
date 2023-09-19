@@ -11,7 +11,7 @@ The project's objective is to gather job-related information from Instahyre usin
 
 ## Problem Aimed to Solve:
 
-1. Automate the job search process - Save time and effort.
+1. Make the job search process easier - Save time and effort.
 2. Provide comprehensive job details - Rich information for users.
 3. Enhance search query accuracy - Improve search results precision.
 4. Analyze job market trends - Identify employment patterns and demands.
